@@ -1,7 +1,7 @@
 # Data Science Books
 
 ## Purpose
-The purpose of this repository is to store documentation of my learning. Many of the books listed below have coding examples and exercises throughout and at the end of each chapter. Within the directory of each book, I will have either jupyter notebooks with examples and exercies or a project relating to that book in the case the book doesn't provide exercises. 
+The purpose of this repository is to store documentation of my learning. Many of the books listed below have coding examples and exercises throughout and at the end of each chapter. Within the directory of each book, I will have either jupyter notebooks with examples and exercises or a project relating to that book in the case the book doesn't provide exercises. 
 
 ## Books
 1. *Essential Math for Data Science* by Thomas Nield
