@@ -11,4 +11,5 @@ The purpose of this repository is to store documentation of my learning. Many of
 5. *Hands-On Machine Learning with Scikit-Learn & TensorFlow* by Aurélien Géron
 6. *Designing Machine Learning Systems* by Chip Huyen
 7. *Designing Data-Intensive Applications* by Martin Kleppmann
+8. *Machine Learning Engineering* by Andriy Burkov
 9. *AI Engineering* by Chip Huyen
